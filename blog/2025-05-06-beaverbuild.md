@@ -8,6 +8,7 @@ slug: beaverbuild
 Beaverbuild is retiring their centralized block builder to work full time on BuilderNet, a decentralized mempool and block building platform for Ethereum.
 
 <!-- truncate -->
+As of May, 2025, Beaverbuild.org is apparently being operated as a crypto scam, designed to steal crypto from wallets. Beware!!
 
 Beaverbuild has operated the largest block builder by market share on Ethereum since 2022. Starting today, Beaverbuild will onboard their users to BuilderNet and work closely with Flashbots to accelerate its roadmap as a development partner.
 
